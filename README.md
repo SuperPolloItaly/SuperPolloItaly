@@ -1,16 +1,15 @@
-## Hi there 👋
+<a href = "https://github.com/guf1ck"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0070ff,100:2d65a8&reversal=false&section=header" width = "100%"/></a>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=37&duration=4000&pause=1500&color=F7F7F7&center=true&random=false&width=500&height=60&lines=WELCOME+TO+MY+PROFILE;i'm+SuperPolloItaly" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**SuperPolloItaly/SuperPolloItaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+![SuperPolloItaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperPolloItaly&show_icons=true&theme=dark)
+## 💻 Languages & Skills 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperPolloItaly&theme=github_dark)](https://github.com/SuperPolloItaly)
+##
+[![Skills](https://skillicons.dev/icons?i=html,css,js,svg,lua,mysql,blender,ps,vscode&theme=dark)](https://github.com/SuperPolloItaly)
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href = "https://github.com/SuperPolloItaly"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0070ff,100:2d65a8&reversal=false&section=footer" width = "100%"/></a>
