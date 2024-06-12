@@ -5,7 +5,7 @@
 
 ##
 
-![SuperPolloItaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperPolloItaly&show_icons=true&theme=dark)
+![SuperPolloItaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperPolloItaly&show_icons=true&theme=github_dark)
 ## 💻 Languages & Skills 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperPolloItaly&theme=github_dark)](https://github.com/SuperPolloItaly)
 ##
