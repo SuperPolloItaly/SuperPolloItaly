@@ -1,4 +1,4 @@
-<a href = "https://github.com/guf1ck"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0070ff,100:2d65a8&reversal=false&section=header" width = "100%"/></a>
+<a href = "https://github.com/SuperPolloItaly"><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0070ff,100:2d65a8&reversal=false&section=header" width = "100%"/></a>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=700&size=37&duration=4000&pause=1500&color=F7F7F7&center=true&random=false&width=500&height=60&lines=WELCOME+TO+MY+PROFILE;i'm+SuperPolloItaly" alt="Typing SVG" /></a>
   
