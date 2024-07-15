@@ -9,7 +9,8 @@
 
 ![SuperPolloItaly's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuperPolloItaly&show_icons=true&theme=github_dark)
 ## 💻 Languages & Skills 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperPolloItaly&theme=github_dark)](https://github.com/SuperPolloItaly)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperPolloItaly&hide_progress=true&theme=github_dark)
 ##
 [![Skills](https://skillicons.dev/icons?i=html,css,js,svg,lua,mysql,blender,ps,vscode&theme=dark)](https://github.com/SuperPolloItaly)
 <br>
